@@ -10,13 +10,13 @@ CONFIG += c++17
 
 SOURCES += \
     body.cpp \
-    esfera.cpp \
+    grafica.cpp \
     main.cpp \
     mainwindow.cpp
 
 HEADERS += \
     body.h \
-    esfera.h \
+    grafica.h \
     mainwindow.h
 
 FORMS += \
